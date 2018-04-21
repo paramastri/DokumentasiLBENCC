@@ -37,3 +37,17 @@ Materi: Evaluasi
 - Diberi beberapa soal pilihan ganda
 - Membuat web dengan menerapkan bootstrap (class row)
 - Di submit pada google drive
+
+MINGGU KELIMA 
+Waktu Pelaksanaan: Sabtu, 14 April 2018
+Pemateri: Mas Hero
+Materi: Membuat app.html
+- Download dan menerapkan index.js, sinch.min.js
+- Menerapkan video call
+
+MINGGU KEENAM
+Waktu Pelaksanaan: Sabtu, 21 April 2018
+Pemateri: Mas Hero, Mas Sisil
+Materi: Membuat link sendiri
+- Mengaplikasikan ngrok
+- Log in dan video call antar perangkat
